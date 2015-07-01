@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Minhas Tarefas</string>
+
+    <string name="menu_delete">Excluir tarefa</string>
+    <string name="menu_insert">Adicionar</string>
+
+    <string name="titulo">Minhas Tarefas</string>
+    <string name="labelTarefa">Descrição da tarefa</string>
+    <string name="labelData">Data</string>
+    <string name="labelHora">Hora</string>
+    <string name="btnCancelar">Cancelar</string>
+    <string name="btnSalvar">Salvar</string>
+    <string name="title_activity_tarefa">Tarefa</string>
+</resources>
